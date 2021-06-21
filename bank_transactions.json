@@ -1,0 +1,46 @@
+{
+  "bank_transactions": [
+    {
+      "id": 1,
+      "transaction": 250000,
+      "value": 7000000,
+      "frauds_attempts": 100
+    },
+    {
+      "id": 1,
+      "transaction": 175000,
+      "value": 12000000,
+      "frauds_attempts": 2000
+    },
+    {
+      "id": 1,
+      "transaction": 200000,
+      "value": 3000000,
+      "frauds_attempts": 14000
+    },
+    {
+      "id": 1,
+      "transaction": 170000,
+      "value": 5000000,
+      "frauds_attempts": 500
+    },
+    {
+      "id": 1,
+      "transaction": 480000,
+      "value": 21000000,
+      "frauds_attempts": 6000
+    },
+    {
+      "id": 1,
+      "transaction": 210000,
+      "value": 2000000,
+      "frauds_attempts": 1000
+    },
+    {
+      "id": 1,
+      "transaction": 140000,
+      "value": 4000000,
+      "frauds_attempts": 500
+    }
+  ]
+}
